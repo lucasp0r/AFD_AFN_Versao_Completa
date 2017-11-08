@@ -1,0 +1,11 @@
+S
+4 S Sq1 q1q2 q2 
+2 S Sq1 
+2 a b 
+6
+S a Sq1
+Sq1 a Sq1
+Sq1 b q2
+q2 b q1q2
+q1q2 a S
+q1q2 b q1q2
